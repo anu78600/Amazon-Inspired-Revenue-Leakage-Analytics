@@ -615,8 +615,8 @@ Through this project, I practiced:
 - [x] Product-price lookup and correction
 - [x] New calculated columns
 - [x] Dashboard layout and component design in Figma
-- [ ] Final data-quality validation
-- [ ] Power BI dashboard completion and KPI verification
+- [x] Final data-quality validation
+- [x] Power BI dashboard completion and KPI verification
 - [ ] PostgreSQL business analysis
 - [ ] Final business insights and recommendations
 
