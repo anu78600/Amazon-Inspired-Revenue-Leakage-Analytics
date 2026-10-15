@@ -545,7 +545,9 @@ DIVIDE(
 
 ### Dashboard Screenshot
 
-**[Add Final Power BI Dashboard Screenshot Here]**
+<p align="center">
+  <img src="Amazon-Ins-Dashboard.png" width="750" alt="Power BI Dashboard">
+</p>
 
 ---
 
